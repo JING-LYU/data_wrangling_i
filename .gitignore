@@ -2,3 +2,5 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# get data ignore by print"/data" right here
